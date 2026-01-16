@@ -1,0 +1,6 @@
+Model / Feature Block,Kaggle Public AUC
+LogReg (application only),0.72766
+LogReg (+ prev),0.7383
+LogReg (+ prev+bureau),0.74118
+LogReg (+ prev+bureau+inst+cc),0.74968
+LightGBM (final),0.78213
