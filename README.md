@@ -22,4 +22,6 @@
    * outputs/results_log.csv
 
 
-   * outputs/submission_lgbm_final.csv/Users/madanmohan/Downloads/README.txt
+   * outputs/submission_lgbm_final.csv
+     
+
